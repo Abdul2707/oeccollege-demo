@@ -1,4 +1,4 @@
 # oeccollege-demo
 This is my first Git Repository
 <br>
-Author - Abdul Waheed
+Author - Abdul (oec college)
